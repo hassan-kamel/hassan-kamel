@@ -1,18 +1,30 @@
 
 <h1 align="center">Hi 👋, I'm Hassan Kamel</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A Passionate Full Stack Developer From Egypt</h3>
 
 
 
  
-
-- 🌱 I’m currently learning  **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hassan-kamel](https://github.com/hassan-kamel)
 
 - 💬 Ask me about **React and all front-end technologies**
 
 - 📫 How to reach me **hassankamel755@gmail.com**
+
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hassan-kamel&show_icons=true&theme=gruvbox"/>
+<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
