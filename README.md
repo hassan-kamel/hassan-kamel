@@ -12,6 +12,7 @@
 </p>
 
 ### 🚀 About Me:
+
 - 🔭 I'm currently working as a **Full Stack Node.js Developer** at an **AI-Powered Technology Company**
 - 💻 Experienced in building **scalable applications** with **Node.js**, **NestJS**, **Angular**, **React**, and **Next.js**
 - 🌱 I'm currently learning **Kubernetes, Nginx, RabbitMQ, Elastic Stack, and Microservices Architecture**
@@ -20,6 +21,7 @@
 - 📫 How to reach me **hassankamel755@gmail.com**
 
 ### 🌟 Quick Facts:
+
 - ⚡ Building AI-integrated web applications with modern technologies
 - 🎯 Focused on writing clean, efficient, and maintainable code
 - 🤝 Open to collaborating on interesting projects
@@ -31,6 +33,12 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-kamel&theme=gruvbox" alt="hassan-kamel" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-kamel&layout=compact&langs_count=8&theme=gruvbox" alt="Top Languages" />
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
