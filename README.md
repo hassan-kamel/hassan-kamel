@@ -95,7 +95,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/hassan-kamel-50553519a" target="_blank">
+  <a href="https://www.linkedin.com/in/hassan-mohamed-kamel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://twitter.com/_hassan_kamel" target="_blank">
