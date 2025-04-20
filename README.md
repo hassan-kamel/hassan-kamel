@@ -1,5 +1,5 @@
 <h1 align="center">Hi Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Hassan Kamel</h1>
-<h3 align="center">A Frontend Engineer 🚀</h3>
+<h3 align="center">Frontend Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassan-kamel&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-kamel" />
