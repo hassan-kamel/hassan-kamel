@@ -18,7 +18,7 @@
 - 🌱 I'm currently learning **advanced features of Next.js**
 - 💬 Skilled in **Modern JavaScript/TypeScript**, **component-based architecture**, and **crafting seamless frontend experiences**
 - 👨‍💻 All of my projects are available at [https://github.com/hassan-kamel](https://github.com/hassan-kamel)
-- 📫 How to reach me **hassankamel755@gmail.com**
+- 📫 How to reach me **hassankameldev@gmail.com**
 
 ### 🌟 Quick Facts:
 
