@@ -14,7 +14,7 @@
 ### 🚀 About Me:
 
 - 🔭 I'm currently working as a **Frontend Engineer** at **Dsquares** (Loyalty & Fintech SaaS), building scalable web applications in a **micro-frontend architecture**
-- 🧱 I architect **design systems**, **micro-frontends**, and frontend infrastructure (Webpack → **Rspack** migrations, Module Federation)
+- 🧱 I architect **design systems**, **micro-frontends**, and frontend infrastructure (Tooling migrations, Module Federation)
 - 🤖 I practice **AI-assisted & agentic engineering** daily: Claude Code, Codex, Copilot, Cursor, and **MCP servers** — including agents that connect to local databases for live insights and analytics
 - ⚙️ Full-stack capable: **Node.js, NestJS, .NET/C#**, REST APIs, and containerized deployments on **GCP/GKE** with CI/CD (Jenkins, Argo CD)
 - 💻 Core stack: **React, TypeScript, Next.js, Tailwind CSS**, with a focus on performance (Core Web Vitals) and clean architecture
